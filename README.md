@@ -4,4 +4,6 @@
 
 # test
 
-init
+init 
+
+2つ目の変更
